@@ -18,6 +18,13 @@
         "admin"
       ],
       "expiresAt": null
+    },
+    {
+      "github": "Govej",
+      "roles": [
+        "editor"
+      ],
+      "expiresAt": null
     }
   ],
   "signature": "SH7bHF0EofH4eqBSORPdo8JO4h970csoZXu9eHavlHjS8hb4CW\u002B3ygSxa26kHQmHvpkqOQ7nNSrEAGsoa2KON/qE9TqsvO1VD\u002BAQ1K/z5Xyz2uARL8g843BGBYbsE87PtLsOBlIWy6VDVehtwbDVCDS/TxRvwRswym/1whQkWYmdkbENEn38d\u002B5XfTWv5s7/sV\u002BZynka6hkU6zXzKBlaz6ibWChWm0aIM1uLAvtyQkkDhVbuFQ4cEib2NSFGNX99c0zVqaW4W8HRMplsJ029kf\u002BlCz1WdgwHojiLJ689UEOD86WgS\u002B/q1SwEGzoxqlYStRZMJ/3iGOWf7iTDX7An5g=="
